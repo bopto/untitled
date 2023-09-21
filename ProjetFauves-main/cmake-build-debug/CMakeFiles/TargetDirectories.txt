@@ -1,0 +1,3 @@
+C:/Users/Baptiste/CLionProjects/ProjetFauves1/cmake-build-debug/CMakeFiles/ProjetFauves.dir
+C:/Users/Baptiste/CLionProjects/ProjetFauves1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Baptiste/CLionProjects/ProjetFauves1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
